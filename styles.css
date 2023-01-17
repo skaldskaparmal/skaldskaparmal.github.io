@@ -1,0 +1,35 @@
+body {
+	margin: auto;
+	width: 45%;
+	margin-top: 50px;
+	font-family: Lato;
+}
+
+.links a {
+	text-decoration: none;
+}
+
+.links a:visited {
+	text-decoration: none;
+	color: blue;
+}
+
+.footer {
+	
+	font-size: 13px;
+}
+
+.description {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.puzzle {
+	padding-bottom: 10px;
+}
+
+.puzzle_title a {
+	color: #363636;
+	font-weight: bold;
+	font-size: 18px;
+}
