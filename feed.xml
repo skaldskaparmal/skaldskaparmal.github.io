@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Skald's Puzzles</title>
+    <link>https://skaldskaparmal.github.io/</link>
+    <description>Puzzles by skaldskaparmal</description>
+    <language>en-us</language>
+	<atom:link href="https://skaldskaparmal.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>What?</title>
+        <link>https://skaldskaparmal.github.io/index.html#puzzle_what</link>
+        <guid isPermaLink="false">what</guid>
+        <description></description>
+        <pubDate>Tue, 10 Jan 2023 12:00:00 EST</pubDate>
+    </item>
+    <item>
+        <title>The Hunt</title>
+        <link>https://skaldskaparmal.github.io/index.html#puzzle_the_hunt</link>
+        <guid isPermaLink="false">the_hunt</guid>
+        <description></description>
+        <pubDate>Fri, 12 Aug 2022 12:00:00 EST</pubDate>
+    </item>
+    <item>
+        <title>One For The Ages</title>
+        <link>https://skaldskaparmal.github.io/index.html#puzzle_one_for_the_ages</link>
+        <guid isPermaLink="false">one_for_the_ages</guid>
+        <description></description>
+        <pubDate>Sat, 11 Jun 2022 12:00:00 EST</pubDate>
+    </item>
+    <item>
+        <title>Criminal's Finger Flickering In The Dark</title>
+        <link>https://skaldskaparmal.github.io/index.html#puzzle_criminals_finger_flickering_in_the_dark</link>
+        <guid isPermaLink="false">criminals_finger_flickering_in_the_dark</guid>
+        <description></description>
+        <pubDate>Fri, 29 Apr 2022 12:00:00 EST</pubDate>
+    </item>
+    <item>
+        <title>Today's As Good A Winter Day As Any</title>
+        <link>https://skaldskaparmal.github.io/index.html#puzzle_todays_as_good_a_winter_day_as_any</link>
+        <guid isPermaLink="false">todays_as_good_a_winter_day_as_any</guid>
+        <description></description>
+        <pubDate>Mon, 15 Feb 2021 12:00:00 EST</pubDate>
+    </item>
+    <item>
+        <title>Where In The Crossworld</title>
+        <link>https://skaldskaparmal.github.io/index.html#puzzle_where_in_the_crossworld</link>
+        <guid isPermaLink="false">where_in_the_crossworld</guid>
+        <description></description>
+        <pubDate>Fri, 25 Dec 2020 12:00:00 EST</pubDate>
+    </item>
+    <item>
+        <title>Meeting Friends</title>
+        <link>https://skaldskaparmal.github.io/index.html#puzzle_meeting_friends</link>
+        <guid isPermaLink="false">meeting_friends</guid>
+        <description></description>
+        <pubDate>Wed, 25 Dec 2019 12:00:00 EST</pubDate>
+    </item>
+</channel>
+</rss>
