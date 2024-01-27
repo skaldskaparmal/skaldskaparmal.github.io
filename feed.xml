@@ -6,6 +6,13 @@
     <description>Puzzles by skaldskaparmal</description>
     <language>en-us</language>
 	<atom:link href="https://skaldskaparmal.github.io/feed.xml" rel="self" type="application/rss+xml" />
+	<item>
+        <title>Ode to Duckmedic</title>
+        <link>https://skaldskaparmal.github.io/index.html#puzzle_ode_to_duckmedic</link>
+        <guid isPermaLink="false">ode_to_duckmedic</guid>
+        <description></description>
+        <pubDate>Sat, 27 Jan 2024 12:00:00 EST</pubDate>
+    </item>
     <item>
         <title>Something's Up</title>
         <link>https://skaldskaparmal.github.io/index.html#puzzle_somethings_up</link>
