@@ -7,6 +7,13 @@
     <language>en-us</language>
 	<atom:link href="https://skaldskaparmal.github.io/feed.xml" rel="self" type="application/rss+xml" />
 	<item>
+        <title>Some Assembly Required</title>
+        <link>https://skaldskaparmal.github.io/index.html#puzzle_some_assembly_required</link>
+        <guid isPermaLink="false">some_assembly_required</guid>
+        <description></description>
+        <pubDate>Wed, 02 Oct 2024 18:00:00 EST</pubDate>
+    </item>
+	<item>
         <title>Ode to Duckmedic</title>
         <link>https://skaldskaparmal.github.io/index.html#puzzle_ode_to_duckmedic</link>
         <guid isPermaLink="false">ode_to_duckmedic</guid>

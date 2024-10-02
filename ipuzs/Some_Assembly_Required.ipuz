@@ -1,0 +1,269 @@
+{
+    "version": "http://ipuz.org/v1",
+    "kind": [
+        "https://squares.io/crossword-kind/barred-diagramless/no-reflow"],
+    "title": "Some Assembly Required",
+    "copyright": "2024",
+    "author": "Skaldskaparmal",
+    "notes": "The programmer thought her high-level programming language would be enough to solve this problem, but unfortunately she discovered that some assembly is required.  Answers to Lines clues are entered in order in the corresponding row.  Assembly clues are given in no particular order. Their answers are entered with the given shape, (without rotation or reflection) wherever they fit, never overlapping with each other. The final grid contains two phrases saying what each Assembly clue's entry is. These phrases should be entered as rebuses in the top left single cells, one word per cell with the alphabetically earlier entry in the left two cells. If you would like to draw the jigsaw shapes into the grid, highlight a cell and use the [, ], ^ and _ characters to add left, right, top and bottom bars, respectively.",
+    
+    "dimensions": {
+        "height": 27,
+        "width": 27
+    },
+    "block": "#",
+    "empty": 0,
+    "puzzle": [
+        ["#","0","0","#","0","0","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#"],
+        ["#","#","#","#","#","#","#","#","#","#", 4 ,{"style":{"barred":"B"},"cell":0}
+                                                        ,{"style":{"barred":"B"},"cell":0}
+                                                            , 0 ,"#", 0 , 0 , 0 , 0 , 0 ,"#","#","#","#","#","#","#"],
+        ["#", 1 , 0 , 0 ,"#","#","#","#", 0 ,"#","#", 0 ,{"style":{"barred":"B"},"cell":0}
+                                                           , 0 ,"#", 5 ,"#","#","#","#","#", 0 ,"#", 0 , 0 , 0 ,"#"],
+        ["#","#","#", 0 ,"#","#", 2 ,"#", 0 ,"#","#", 0 , 0 ,"#","#","#","#","#", 0 ,"#", 0 ,{"style":{"barred":"B"},"cell":0}
+                                                                                                ,"#","#","#", 7 ,"#"],
+        ["#","#","#", 0 ,"#","#", 0 ,"#", 0 , 0 ,"#","#", 0 , 0 ,"#","#", 6 , 0 , 0 ,"#", 0 , 0 , 8 ,"#","#","#","#"],
+        ["#","#","#","#","#", 0 , 0 ,"#","#", 3 ,"#","#","#", 0 ,"#","#","#","#","#","#","#","#","#","#", 0 , 0 , 0 ],
+        ["#","#","#","#", 0 , 0 ,"#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#", 9 , 0 ,"#", 0 ],
+        ["#","#","#","#","#","#","#",{"cell":"A"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#","#","#","#","#","#","#"],
+        ["#", 0 , 0 , 0 ,"#","#","#",{"cell":"B"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#", 0 , 0 , 0 ,"#", 0 ,"#"],
+        ["#",31 ,"#","#","#","#","#",{"cell":"C"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#","#","#",10 ,"#", 0 ,"#"],
+        ["#","#","#","#","#","#","#",{"cell":"D"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#","#","#","#","#", 0 ,11 ],
+        ["#",30 ,"#", 0 , 0 ,"#","#",{"cell":"E"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#", 0 , 0 ,"#","#","#","#"],
+        ["#", 0 , 0 , 0 ,"#","#","#",{"cell":"F"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#","#", 0 , 0 ,"#","#",14 ],
+        ["#","#","#","#","#","#","#",{"cell":"G"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#","#","#",12 ,"#","#", 0 ],
+        ["#","#","#", 0 , 29,"#","#",{"cell":"H"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#","#","#","#","#", 0 , 0 ],
+        ["#", 0 , 0 , 0 ,"#","#","#",{"cell":"I"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#", 0 , 0 , 0 ,"#", 0 ,"#"],
+        ["#","#","#","#","#","#","#",{"cell":"J"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#",13 ,"#","#","#","#","#"],
+        ["#", 0 , 27,"#","#","#","#",{"cell":"K"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#","#","#", 0 ,"#", 0 ,"#"],
+        ["#", 0 ,"#","#","#","#","#",{"cell":"L"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#","#","#", 0 ,"#", 0 ,"#"],
+        ["#", 0 ,"#","#","#","#","#",{"cell":"M"}, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,"#","#","#", 0 ,"#", 0 ,16 ],
+        ["#", 0 ,"#", 28, 0 , 0 ,"#","#","#","#","#","#","#","#","#","#","#","#","#","#","#",15 , 0 , 0 ,"#","#","#"],
+        ["#","#","#","#","#", 0 , 0 ,"#","#","#", 0 ,23 ,"#", 0 ,"#","#","#", 0 , 21,"#","#","#","#","#","#","#","#"],
+        ["#","#","#","#","#","#","#","#","#","#", 0 ,"#","#", 0 , 0 ,"#", 0 , 0 ,"#","#",17 , 0 ,"#","#",{"style":{"barred":"R"},"cell":0}
+                                                                                                            ,18 ,"#"],
+        ["#", 26,"#","#", 0 ,"#","#","#", 0 ,"#", 0 ,"#","#","#", 0 ,"#","#","#","#","#","#", 0 , 0 ,"#", 0 , 0 ,"#"],
+        ["#", 0 ,"#","#", 0 ,"#","#", 0 ,{"style":{"barred":"B"},"cell":0}
+                                            ,"#", 0 ,"#","#","#", 0 ,"#","#",20 , 0 , 0 ,"#","#","#","#","#","#","#"],
+        ["#", 0 , 0 ,"#", 0 , 0 ,"#", 0 , 24,"#","#","#","#","#",22 ,"#","#","#","#", 0 ,"#","#","#","#",19 ,"#","#"],
+        ["#","#","#","#","#", 25,"#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#", 0 , 0 , 0 ,"#","#"]
+],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "solution": [
+        ["#","SOFTWARE","PATCH","#","SPAGHETTI","CODE","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#"],
+        ["#","#","#","#","#","#","#","#","#","#","B","L","A","R","#","R","I","C","O","T","#","#","#","#","#","#","#"],
+        ["#","K","O","R","#","#","#","#","E","#","#","Y","E","N","#","T","#","#","#","#","#","G","#","S","N","O","#"],
+        ["#","#","#","E","#","#","C","#","R","#","#","S","T","#","#","#","#","#","P","#","I","N","#","#","#","C","#"],
+        ["#","#","#","A","#","#","H","#","A","W","#","#","O","N","#","#","H","E","M","#","R","O","P","#","#","#","#"],
+        ["#","#","#","#","#","R","E","#","#","A","#","#","#","E","#","#","#","#","#","#","#","#","#","#","H","A","R"],
+        ["#","#","#","#","Y","R","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","S","A","#","A"],
+        ["#","#","#","#","#","#","#","S","H","A","R","O","N","S","N","O","C","O","N","E","#","#","#","#","#","#","#"],
+        ["#","A","C","O","#","#","#","S","A","G","A","B","L","O","T","C","H","I","E","R","#","O","N","E","#","T","#"],
+        ["#","T","#","#","#","#","#","T","I","N","G","L","E","F","I","R","E","N","Z","E","#","#","#","R","#","P","#"],
+        ["#","#","#","#","#","#","#","P","R","O","P","E","R","T","Y","R","O","G","U","E","#","#","#","#","#","P","A"],
+        ["#","A","#","E","N","#","#","P","A","K","O","R","A","W","H","I","T","M","A","N","#","E","N","#","#","#","#"],
+        ["#","R","I","S","#","#","#","B","L","A","R","E","E","A","T","E","R","I","E","S","#","#","L","I","#","#","I"],
+        ["#","#","#","#","#","#","#","H","Y","E","N","A","I","R","R","I","G","A","T","E","#","#","#","M","#","#","N"],
+        ["#","#","#","I","R","#","#","E","S","T","R","O","G","E","N","B","C","E","L","L","#","#","#","#","#","O","G"],
+        ["#","R","O","G","#","#","#","A","T","O","N","A","M","P","L","I","T","U","D","E","#","A","M","P","#","T","#"],
+        ["#","#","#","#","#","#","#","B","A","A","E","D","J","A","S","M","I","N","E","S","#","D","#","#","#","#","#"],
+        ["#","B","A","#","#","#","#","A","P","R","I","C","O","T","O","N","E","S","I","E","#","#","#","U","#","E","#"],
+        ["#","A","#","#","#","#","#","C","A","T","E","N","A","C","O","P","S","O","U","T","#","#","#","A","#","S","#"],
+        ["#","C","#","#","#","#","#","I","R","I","S","H","T","H","E","M","S","E","L","F","#","#","#","E","#","S","E"],
+        ["#","I","#","J","A","S","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","G","A","T","#","#","#"],
+        ["#","#","#","#","#","O","N","#","#","#","O","N","#","E","#","#","#","E","S","#","#","#","#","#","#","#","#"],
+        ["#","#","#","#","#","#","#","#","#","#","B","#","#","Z","E","#","S","I","#","#","L","O","#","#","T","U","#"],
+        ["#","H","#","#","H","#","#","#","E","#","L","#","#","#","E","#","#","#","#","#","#","F","I","#","I","N","#"],
+        ["#","E","#","#","T","#","#","U","T","#","E","#","#","#","N","#","#","E","L","L","#","#","#","#","#","#","#"],
+        ["#","A","T","#","R","I","#","L","F","#","#","#","#","#","S","#","#","#","#","E","#","#","#","#","M","#","#"],
+        ["#","#","#","#","#","B","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#","E","R","I","#","#"]
+],
+    "clues": {
+        "Lines": [
+            {   "clue": "Looking back, Norah's a name that originally referred to a biblical fertile plain<br>It can be eaten for afternoon tea, but never is eaten for dessert (hyph.)",
+                "number": "A",
+                "cells": [ [8,8],[9,8],[10,8],[11,8],[12,8],[13,8],[14,8],[15,8],[16,8],[17,8],[18,8],[19,8],[20,8]]},
+            {   "clue": "Lengthy legend is outstanding, but gee, certainly just behind the  times<br>Second-rate clothier's redesign is even more irregularly freckled",
+                "number": "B",     
+                "cells": [ [8,9],[9,9],[10,9],[11,9],[12,9],[13,9],[14,9],[15,9],[16,9],[17,9],[18,9],[19,9],[20,9]]},
+            {   "clue": "Buck is topless, but has a top where the top would normally be if Buck wasn't topless… This feels weird<br>Florence can, at last, hike across New Zealand",
+                "number": "C",
+                "cells": [ [8,10],[9,10],[10,10],[11,10],[12,10],[13,10],[14,10],[15,10],[16,10],[17,10],[18,10],[19,10],[20,10]]},
+            {   "clue": "Worker connecting with gay community finally is … home, maybe?<br> Corrupt ogre violently grabs you",
+                "number": "D",
+                "cells": [ [8,11],[9,11],[10,11],[11,11],[12,11],[13,11],[14,11],[15,11],[16,11],[17,11],[18,11],[19,11],[20,11]]},
+            {   "clue": "Two people that would help a new college freshman get situated, getting hold of knockout street food<br>Container of multitudes (multitudes!) of computers hooked up together is visited by head of helpdesk at MIT unexpectedly",
+                "number": "E",
+                "cells": [ [8,12],[9,12],[10,12],[11,12],[12,12],[13,12],[14,12],[15,12],[16,12],[17,12],[18,12],[19,12],[20,12]]},
+            {   "clue": "Strident noise comes out of retreating feral beast<br>Dining establishments behind lake relocating south (all the way to the other side)",
+                "number": "F",
+                "cells": [ [8,13],[9,13],[10,13],[11,13],[12,13],[13,13],[14,13],[15,13],[16,13],[17,13],[18,13],[19,13],[20,13]]},
+            {   "clue": "It might be longing to engage in a bit of laughter!<br> Machine intrinsic to steaming water",
+                "number": "G",
+                "cells": [ [8,14],[9,14],[10,14],[11,14],[12,14],[13,14],[14,14],[15,14],[16,14],[17,14],[18,14],[19,14],[20,14]]},
+            {   "clue": "Actor Seth backs established transgender healthcare option<br>Siren embodies charm -- it protects against invaders (2 wds.)",
+                "number": "H",
+                "cells": [ [8,15],[9,15],[10,15],[11,15],[12,15],[13,15],[14,15],[15,15],[16,15],[17,15],[18,15],[19,15],[20,15]]},
+            {   "clue": "Club avoids using leftmost lots (2 wds.)<br>Size of turducken arrangement dame prepared that smells fantastic",
+                "number": "I",
+                "cells": [ [8,16],[9,16],[10,16],[11,16],[12,16],[13,16],[14,16],[15,16],[16,16],[17,16],[18,16],[19,16],[20,16]]},
+            {   "clue": "Girlfriend, heart doubling in size when meeting donkey barely at all, cried out loud on the farm<br>Jay mostly digs around in the dirt, collecting small flowers",
+                "number": "J",
+                "cells": [ [8,17],[9,17],[10,17],[11,17],[12,17],[13,17],[14,17],[15,17],[16,17],[17,17],[18,17],[19,17],[20,17]]},
+            {   "clue": "A price cut primarily on tropical fruit<br>Oscar narrowing belly of monster costume",
+                "number": "K",
+                "cells": [ [8,18],[9,18],[10,18],[11,18],[12,18],[13,18],[14,18],[15,18],[16,18],[17,18],[18,18],[19,18],[20,18]]},
+            {   "clue": "100+1+10+1 is a series<br>Doctor Octopus acts irresponsibly (2 wds.)",
+                "number": "L",
+                "cells": [ [8,19],[9,19],[10,19],[11,19],[12,19],[13,19],[14,19],[15,19],[16,19],[17,19],[18,19],[19,19],[20,19]]},
+            {   "clue": "In retrospect, hot gentleman is only partially like The Rock (as mentioned elsewhere)<br>Manuscript is penned by *The* Will Ferrell without anyone else helping",
+                "number": "M",
+                "cells": [ [8,20],[9,20],[10,20],[11,20],[12,20],[13,20],[14,20],[15,20],[16,20],[17,20],[18,20],[19,20],[20,20]]}
+       
+        ],
+		"Assembly": [
+           {   "clue": "Creature that can fly around houses or land around Gyeongbokgung Palace (5)",
+                "number": "1",
+                "cells": [[2,3], [3,3], [4,3], [4,4], [4,5]]   },
+              {   "clue": "After mispronouncing \"darling\" in French, is red (6)",
+                "number": "2",
+                "cells": [[7,4],[7,5],[7,6],[6,6],[6,7],[5,7]]   },
+              {   "clue": "Sensible articles (5)",
+                "number": "3",
+                "cells": [[10,6],[10,5],[9,5],[9,4],[9,3]]   },
+              {   "clue": "Bit of lapis found in purple rock in Ireland (7 5)",
+                "number": "4",
+                "cells": [[11,2],[12,2],[13,2],[14,2],[14,3],[13,3],[12,3],[12,4],[13,4],[13,5],[14,5],[14,6]]   },     
+              {   "clue": "Spilled ricotta strikes a knitted fabric (6)",
+                "number": "5",
+                "cells": [[16,3],[16,2],[17,2],[18,2],[19,2],[20,2]]   },
+              {   "clue": "Material that can be used to make a rope perimeter, found by pioneer at the frontier (4)",
+                "number": "6",
+                "cells": [[17,5],[18,5],[19,5],[19,4]]  },
+              {   "clue": "Tricks assemblies of many people into talking about e.g. comic books (4)",
+                "number": "7",
+                "cells": [[26,4],[26,3],[25,3],[24,3] ] },
+              {   "clue": "Looking closely, porgy nearly catches fly (6)",
+                "number": "8",
+                "cells": [[23,5],[22,5],[21,5],[21,4],[22,4],[22,3]]  },
+              {   "clue": "See a (and hear a) completely echoless barren land (6)",
+                "number": "9",
+                "cells": [[24,7],[25,7],[25,6],[26,6],[27,6],[27,7]]  },
+              {   "clue": "City where George Clooney pretended to be a doctor, if you recall (4)",
+                "number": "10",
+                "cells": [[24,10],[24,9],[23,9],[22,9]]  },
+              {   "clue": "Bringing spinach dip, or something like that, to Tuesday's meeting (4, abbr.)",
+                "number": "11",
+                "cells": [[27,11],[26,11],[26,10],[26,9] ]  },
+              {   "clue": "Alan, Alexander or Christopher, Robin, and Melvin, (but not Victor) danced (5)",
+                "number": "12",
+                "cells": [[24,14],[24,13],[23,13],[23,12],[22,12]]  },
+              {   "clue": "Unwanted moisture to clog pipe at an odd location (4)",
+                "number": "13",
+                "cells": [[22,17],[22,16],[23,16],[24,16] ] },
+              {   "clue": "After cycling, entered bar (5)",
+                "number": "14",
+                "cells": [[27,13],[27,14],[27,15],[26,15],[26,16] ]  },
+              {   "clue": "Name of Middle Eastern country's round cake (6)",
+                "number": "15",
+                "cells": [[22,21],[23,21],[24,21],[24,20],[24,19],[24,18] ]  },
+              {   "clue": "Sees <i>Inside Out</i> and <i>Soul</i> (4)",
+                "number": "16",
+                "cells": [[27,20],[26,20],[26,19],[26,18] ]  },
+              {   "clue": "Take things easy, and consider vocalizing music that doesn't have to be perfect (2-2)",
+                "number": "17",
+                "cells": [[21,23],[22,23],[22,24],[23,24] ]  },
+              {   "clue": "One not qualified loses focus (4)",
+                "number": "18",
+                "cells": [[26,23],[26,24],[25,24],[25,23] ]  },
+              {   "clue": "Muck about in raster imaging (4)",
+                "number": "19",
+                "cells": [[25,26],[25,27],[24,27],[23,27] ]  },
+              {   "clue": "Bullet's inside magazine (4)",
+                "number": "20",
+                "cells": [[18,25],[19,25],[20,25],[20,26] ]  },
+              {   "clue": "Near Chile, this is how you might see six whales (4)",
+                "number": "21",
+                "cells": [[19,22],[18,22],[18,23],[17,23] ]  },
+              {   "clue": "Reading out loud regressive zine's snooty issue? (6)",
+                "number": "22",
+                "cells": [[15,26],[15,25],[15,24],[15,23],[14,23],[14,22] ]  },
+              {   "clue": "Not able to expel teaching assistant's peer (5)",
+                "number": "23",
+                "cells": [[12,22],[11,22],[11,23],[11,24],[11,25] ]  },
+              {   "clue": "Wind instrument with frequency tied for the lowest (5)",
+                "number": "24",
+                "cells": [[9,26],[8,26],[8,25],[9,25],[9,24] ]  },
+              {   "clue": "Start discussing part of number theory (5)",
+                "number": "25",
+                "cells": [[6,27],[6,26],[5,26],[5,25],[5,24] ]  },
+              {   "clue": "Hungry early? Have toast! (4)",
+                "number": "26",
+                "cells": [[2,24],[2,25],[2,26],[3,26] ]  },
+              {   "clue": "Saying \"Mamma Mia!\", foursome express frustration with old calculators (5)",
+                "number": "27",
+                "cells": [[3,18],[2,18],[2,19],[2,20],[2,21] ]  },
+              {   "clue": "He directed <i>Argo</i> and <i>Hook</i> at the same time, having no energy at the end (5)",
+                "number": "28",
+                "cells": [[4,21],[5,21],[6,21],[6,22],[7,22] ]  },
+              {   "clue": "Person in charge of fixing things in the auditorium is being very thorough (5)",
+                "number": "29",
+                "cells": [[5,15],[4,15],[4,16],[3,16],[2,16] ]  },
+              {   "clue": "What you would need to assume to say rot's not appeared (6)",
+                "number": "30",
+                "cells": [[2,12],[2,13],[3,13],[4,13],[4,12],[5,12] ]  },
+              {   "clue": "Taking treatise analyzing cubes online entirely at face value, a hot dog is an example of this (4)",
+                "number": "31",
+                "cells": [[2,10],[2,9],[3,9],[4,9]]  }
+         ]
+    }
+}
