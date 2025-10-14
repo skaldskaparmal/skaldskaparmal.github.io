@@ -5,15 +5,22 @@
     <link>https://skaldskaparmal.github.io/</link>
     <description>Puzzles by skaldskaparmal</description>
     <language>en-us</language>
-	<atom:link href="https://skaldskaparmal.github.io/feed.xml" rel="self" type="application/rss+xml" />
-	<item>
+    <atom:link href="https://skaldskaparmal.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>Hey, You Should Solve This Puzzle</title>
+        <link>https://skaldskaparmal.github.io/index.html#puzzle_hey_you_should_solve_this_puzzle</link>
+        <guid isPermaLink="false">hey_you_should_solve_this_puzzle</guid>
+        <description></description>
+        <pubDate>Tue, 14 Oct 2025 19:30:00 EDT</pubDate>
+    </item>
+    <item>
         <title>Some Assembly Required</title>
         <link>https://skaldskaparmal.github.io/index.html#puzzle_some_assembly_required</link>
         <guid isPermaLink="false">some_assembly_required</guid>
         <description></description>
         <pubDate>Wed, 02 Oct 2024 18:00:00 EST</pubDate>
     </item>
-	<item>
+    <item>
         <title>Ode to Duckmedic</title>
         <link>https://skaldskaparmal.github.io/index.html#puzzle_ode_to_duckmedic</link>
         <guid isPermaLink="false">ode_to_duckmedic</guid>
