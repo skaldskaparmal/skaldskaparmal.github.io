@@ -6,6 +6,13 @@
     <description>Puzzles by skaldskaparmal</description>
     <language>en-us</language>
     <atom:link href="https://skaldskaparmal.github.io/feed.xml" rel="self" type="application/rss+xml" />
+	<item>
+        <title>A Puzzle</title>
+        <link>https://skaldskaparmal.github.io/index.html#puzzle_a_puzzle</link>
+        <guid isPermaLink="false">a_puzzle</guid>
+        <description></description>
+        <pubDate>Sun, 26 Apr 2026 21:45:00 EDT</pubDate>
+    </item>
     <item>
         <title>Hey, You Should Solve This Puzzle</title>
         <link>https://skaldskaparmal.github.io/index.html#puzzle_hey_you_should_solve_this_puzzle</link>
